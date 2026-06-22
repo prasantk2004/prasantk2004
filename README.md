@@ -1,8 +1,7 @@
 # Hi there! 👋  
 
-- **Name:** K Prasant
-- Doing B.Tech CSE (2027) 🎓  
-- Studying at Odisha University of Technology and Research 🏫  
+- **Name:** Karanam Prasant
+- Doing Bachelor in Technology in CSE (2027) at Odisha University of Technology and Research 🏫  
 - 🎬 Movies, 🌸 Anime 💖
 - 💻 Aspiring Developer  
 - 😅 I study the night before exams.  
